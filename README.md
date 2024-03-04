@@ -1,27 +1,40 @@
-# RecipySharing
+<p align="center">
+      <img src="https://i.ibb.co/7zHZsvT/image.png" width="726">
+</p>
+<p align="center">
+   <img src="https://img.shields.io/badge/Spring%20Boot-3.2.0-green" alt="Unity Version">
+   <img src="https://img.shields.io/badge/Node.js-v21.6.2-brightgreen" alt="Game Version">
+   <img src="https://img.shields.io/badge/Angular%20CLI-17.2.0-red" alt="License">
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+## About
+Recipe Sharing is a web application designed for sharing recipes with others. It's a platform where users can create, view, edit, and share their favorite recipes with the community.
+## Demo
+<p align="center">
+  <img src="https://i.ibb.co/fN7CYGy/2024-03-04-11-12-14.png" width="450" alt="Image 1">
+  <img src="https://i.ibb.co/DtbBCcZ/2024-03-04-11-12-21.png" width="450" alt="Image 2">
+  <img src="https://i.ibb.co/F72HX2h/2024-03-04-11-12-35.png" width="550" alt="Image 3">
+</p>
+<div align="center">
+  <img src="https://i.ibb.co/BL0pt7b/2024-03-04-11-12-43.png" width="420" alt="Image 1">
+  <img src="https://i.ibb.co/WnFgRwy/2024-03-04-11-12-52.png" width="340" alt="Image 2">
+</div>
 
-## Development server
+## Project Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+ - Secure user authentication and authorization mechanisms ensure that users can securely access and manage their accounts, while protecting sensitive information.
+ - Users can easily create new recipes, specifying ingredients, preparation steps, and additional details, fostering a dynamic environment for culinary creativity.
+ - Users can express their appreciation for recipes by liking them, and share their favorite culinary creations with others, fostering a sense of community and culinary exploration.
+ -  Users have the flexibility to modify or remove recipes they have created, enabling them to refine their culinary creations and maintain control over their recipe collections.
 
-## Code scaffolding
+## Technologies
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ - Frontend: Angular CLI 17.2.0
+ - Backend: Java with Spring Framework
+ - Database: PostgreSQL for storing recipes, user data.
+ - User Authentication and Authorization: JSON Web Tokens (JWT)
+ - Markup and Styling: Tailwind CSS
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Developers
+- [hmmrfll's](https://github.com/hmmrfll)
